@@ -1,0 +1,135 @@
+
+cookies
+css
+exception
+logger
+front controller
+pagination
+
+
+
+
+
+SELECT PHY_MARKS + CHEM_MARKS + MATH_MARKS AS TOTAL FROM MARKSHEET;
+
+
+SELECT ((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100 AS PERCENTAGE FROM MARKSHEET;
+
+
+SELECT PHY_MARKS + CHEM_MARKS + MATH_MARKS AS TOTAL, ((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100 AS PERCENTAGE FROM MARKSHEET;
+
+
+SELECT PHY_MARKS + CHEM_MARKS + MATH_MARKS AS TOTAL, ((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100 AS PERCENTAGE FROM MARKSHEET ORDER BY PERCENTAGE DESC;
+
+
+SELECT PHY_MARKS + CHEM_MARKS + MATH_MARKS AS TOTAL, ((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100 AS PERCENTAGE FROM MARKSHEET WHERE (((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100) > 40 ORDER BY PERCENTAGE DESC;
+
+
+SELECT ID,ROLL_NO,FIRST_NAME,LAST_NAME,PHY_MARKS, CHEM_MARKS, MATH_MARKS, PHY_MARKS + CHEM_MARKS + MATH_MARKS AS TOTAL, ((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100 AS PERCENTAGE FROM MARKSHEET WHERE (((PHY_MARKS + CHEM_MARKS + MATH_MARKS)/300)*100) > 40 ORDER BY PERCENTAGE DESC;
+
+
+
+9340283909
+
+https://www.clearias.com/temple-architecture-sculpture/
+
+Read more at:
+http://www.indiandefencereview.com/news/dsdbo-road-completed-but-what-of-the-scam-and-the-northeast/
+
+09650694555
+
+====================================================================================
+
+Naukari exam alerts (language and state wise) 
+studies
+motivational
+current affairs
+spritual 
+songs old and album
+8D songs
+website + YT + Unacademy + coaching
+
+================================================== online teaching platforms =================================================
+
+unacademy, 
+vedantu, 
+chegg, 
+toppr, 
+vipkidteacher.com,
+naukri.com, 
+indeed.co.in, 
+enroll.com
+studypool.com
+tutorme.com
+bharat tutor
+photostudy.co
+doubtnut
+superprof.co.in
+gurushiksha.com
+teacheron
+meritnation.com
+tutorvista.com
+whitehat jr, 
+freelancer, 
+upwork
+udemy
+italki.com and verbling.com
+
+==================================================Movie========================================================================
+https://www.uwatchfree.sx/2019/04/thackeray-2019-full-movie/
+
+Crimson tide
+Shahid
+tumbbad
+Detective byomkesh bakshi
+kamyaab
+mard ko dard nahi hota
+no smoking
+sonchirya
+photograph
+laal kaptan
+
+defence and strategic studies
+
+IDSA
+
+think tank
+ORF ,Delhi Observer research foundation 
+gateway house, mumbai
+
+
+Phone: 089595 48677
+
+
+
+
+indian institute of journalism and new media 
+speedy current affairs last 12 months
+
+previous year papers 2012
+
+lucent GK  for miscellaneous gk and S&T , sports
+
+mp for prelims mukesh maheshwari
+
+punekar mcq
+
+mp history and geo , agriculture  mukesh maheshwari
+
+6 to 10th ncert
+
+ethics arihant and d subrarao( case studies)
+
+prepare ready made introduction and conclusion 
+
+cover maximum dimensions
+
+prepare imp article and data sets for economy 
+
+prepare case studies pointers  for imp issues child women 
+
+==================================================================================================================================
+
+https://unacademy.com/plus/course/mrunals-economy-full-course-for-upsc-2019/7M73H3TI?fbclid=IwAR3W25BRdKS0Gz8lFwdCSMQzGtHcb8wcuHgc4ylYixDUvzmjoOuG7R-KRnk
+
+https://support.microsoft.com/en-in/help/12445/windows-keyboard-shortcuts
